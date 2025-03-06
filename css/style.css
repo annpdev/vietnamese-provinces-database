@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  pre {
+    background-color: #eee;
+    padding: 1rem;
+    border-radius: 5px;
+    overflow-y: auto; /* Hiển thị thanh cuộn dọc nếu nội dung quá dài */
+    max-height: 800px; /* Giới hạn chiều cao tối đa là 1000px */
+  }  
+
+  .card {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px; /* Bạn có thể điều chỉnh theo nhu cầu */
+    margin-bottom: 1rem; /* Giữ khoảng cách dưới giữa các card */
+  }  
+  
+  /* Tùy chỉnh cho nút copy */
+  .copy-btn {
+    margin-top: 10px;
+  }
+
+  /* Container chứa code */
+.code-container {
+    position: relative;
+  }
+  
+  /* Nút copy ở góc trên bên phải */
+  .copy-btn-top {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: none;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    transition: background 0.3s, color 0.3s;
+  }
+  
+  .copy-btn-top:hover {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff; /* Ép màu chữ luôn là trắng khi hover */
+  }
+  
+  
+  .copy-btn-top:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  
