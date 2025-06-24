@@ -10,6 +10,6 @@
 - **Giao diện thân thiện:** Trang web tĩnh được thiết kế hiện đại, với các tính năng copy code tiện lợi giúp người dùng thao tác dễ dàng.
 - **Phù hợp cho mọi đối tượng:** Dù bạn là nhà phát triển chuyên nghiệp hay người mới làm quen, dự án này đều mang đến giải pháp nhanh chóng để import dữ liệu tỉnh thành Việt Nam.
 
-Khám phá và trải nghiệm ngay qua [**DEMO**](https://ngphuan2017.github.io/vietnamese-provinces-database/).
+Khám phá và trải nghiệm ngay qua [**DEMO**](https://annpdev.github.io/vietnamese-provinces-database/).
 
 Nếu bạn có ý kiến đóng góp hay cần hỗ trợ, hãy liên hệ với chúng tôi hoặc tạo issue để dự án ngày càng hoàn thiện hơn!
