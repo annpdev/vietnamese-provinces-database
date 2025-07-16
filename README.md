@@ -1,4 +1,4 @@
-# Vietnamese Provinces Database
+# Vietnamese Provinces Database (old)
 
 Đây là dự án giúp bạn nhanh chóng lấy dữ liệu tỉnh thành của Việt Nam và import vào cơ sở dữ liệu thông qua SQL code. Không phụ thuộc vào hệ quản trị nào, dự án cung cấp SQL code có thể áp dụng cho nhiều hệ thống khác nhau, giúp bạn tiết kiệm thời gian và công sức khi thiết lập dữ liệu.
 
